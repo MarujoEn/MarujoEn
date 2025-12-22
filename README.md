@@ -1,4 +1,4 @@
-# Enzo Marujo
+# Enzo Marujo — Technical Systems Development Student
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-marujo-804a613a0/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marujoprofissional@gmail.com)
@@ -7,22 +7,20 @@
 ## 🎯 Professional Objective
 Technical Systems Development student seeking an internship in IT Support or Administrative areas with exclusive availability during morning hours (until 13:00), compatible with technical course schedule.
 
-## 💼 Technical Experience
+## 💼 Practical Experience & Projects
 
 ### **Relevant Projects**
 - **[RawFrame - C# CRUD Application](https://github.com/MarujoEn/Rawframe_Main_Application)**  
-  Led development team in creating a complete Windows Forms application with database integration. Applied programming logic and project management principles.
+  Led development team in creating a complete Windows Forms application with permanence of txt files integration. Applied programming logic and project management principles.
 
 - **[Educational Data Analysis](https://tinyurl.com/ArtigoMarujoEnsinoMedio)**  
-  Critical analysis based on UNESCO and INEP data with practical solutions for educational management.
+  Critical analysis based on UNESCO and INEP data with practical solutions for the new brazilian high school system and its flaws.
 
 ### **Technical Skills**
-```markdown
 - Languages: Python, C#, HTML/CSS
 - Tools: Power BI, Git, Linux
 - Support: Windows N1, Basic Hardware Maintenance
-- Languages: English B2 (Technical reading C2)
-```
+- English: B2 (Technical reading C2)
 
 ## 📚 Education
 - **Technical Degree in Systems Development**  
@@ -38,5 +36,5 @@ Technical Systems Development student seeking an internship in IT Support or Adm
 - Project Management (40h) - Prime Cursos (2025)
 
 ## 📞 Contact
-**marujoprofissional@gmail.com** | +55 (11) 91467-9574  
+**marujoprofissional@gmail.com**
 [LinkedIn](https://www.linkedin.com/in/enzo-marujo-804a613a0/) | [GitHub](https://github.com/MarujoEn)
