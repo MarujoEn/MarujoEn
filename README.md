@@ -36,5 +36,4 @@ Technical Systems Development student seeking an internship in IT Support or Adm
 - Project Management (40h) - Prime Cursos (2025)
 
 ## 📞 Contact
-**marujoprofissional@gmail.com**
-[LinkedIn](https://www.linkedin.com/in/enzo-marujo-804a613a0/) | [GitHub](https://github.com/MarujoEn)
+**marujoprofissional@gmail.com** | [LinkedIn](https://www.linkedin.com/in/enzo-marujo-804a613a0/) | [GitHub](https://github.com/MarujoEn)
