@@ -7,7 +7,7 @@
 
 ## 🎯 Professional Objective
 
-Technical Systems Development student seeking an internship in IT Support or Administrative areas with exclusive availability during morning hours (until 13:00), compatible with technical course schedule.
+Technical Systems Development student seeking an internship in IT Support or Administrative areas.
 
 ## 💼 Practical Experience & Projects
 
